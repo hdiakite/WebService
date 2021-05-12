@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+.corp
+{
+	text-align: center;
+  	font-size: 50px;
+}
+
+.corp2
+{	
+	text-align : center;
+	font-size: 25px;
+	background-image:url(Vin/imgFond.jpg);
+	margin:0;
+}
+
+div.bouton-aligne{
+	display:inline-block;
+	width:45%;
+	margin:10px 2.5% 10px 2.5%;
+	text-align:center;
+	font-size: 50px;
+	font-family: times new roman;
+}
+
+.formulaire
+{
+	 font-family : Courier New, Courier, Prestige, monospace;
+	 color: #0F8B08;
+	display:inline-block;
+	width:30%;
+	margin:10px 2.5% 10px 2.5%;
+	font-weight: bold;
+}
+
+.Valider
+{
+	background-color: #F37F0B;
+}
